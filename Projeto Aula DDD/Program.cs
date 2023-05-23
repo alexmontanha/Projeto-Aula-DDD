@@ -10,7 +10,6 @@ namespace Projeto_Aula_DDD
     {
         static void Main(string[] args)
         {
-
         }
     }
 }
